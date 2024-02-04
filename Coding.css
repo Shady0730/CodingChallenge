@@ -1,0 +1,85 @@
+body {
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+
+.logo {
+    width: 30%;
+    height: 15%;
+    display: block;
+    margin: auto;
+    padding-top: 40px;
+}
+
+header > h2 {
+    color: lime;
+    text-align: center;
+    font-size: 25px;
+}
+
+nav{
+    text-align: center;
+    background-color: lime;
+    padding: 10px;
+    margin: 25;
+}
+
+.contenitore{
+    margin: auto;
+    width: 60%;
+    height: 600px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    margin-top: 50px;
+}
+
+.center {
+    margin: auto;
+    width: 80%;
+  }
+  
+
+main {
+    color: white;
+  }
+  
+  section {
+    padding-bottom: 30px;
+  }
+  
+  .Monopattini{
+    font-size: 20px;
+  }
+  
+  .ricarica1 {
+    border: 2px solid orange;
+    border-radius: 5px;
+    background-color: orange;
+    height: 20px;
+    width: 280px;
+  }
+  
+  .ricarica2 {
+    border: 2px solid lime;
+    border-radius: 5px;
+    background-color: lime;
+    height: 20px;
+    width: 450px;
+  }
+  
+  .ricarica3 {
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: red;
+    height: 20px;
+    width: 150px;
+  }
+
+  footer {
+    color: white;
+    margin: auto;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(0, 0, 0, 0.5)
+  }
